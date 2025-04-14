@@ -1,4 +1,4 @@
-##🚘 Análise de Dados de Vendas de Carros
+Análise de Dados de Vendas de Carros
 
 Este repositório apresenta um projeto de análise de dados com foco em vendas de carros, utilizando informações internas da empresa. A análise foi realizada a partir de registros relacionados a três clientes e funcionários, abordando atributos como:
 
