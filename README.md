@@ -1,17 +1,19 @@
-Análise de Dados de Vendas de Carros
-
+🚘 Análise de Dados de Vendas de Carros
 Este repositório apresenta um projeto de análise de dados com foco em vendas de carros, utilizando informações internas da empresa. A análise foi realizada a partir de registros relacionados a três clientes e funcionários, abordando atributos como:
 
 Carros adquiridos
+
 Valores de venda
+
 Idade dos envolvidos
+
 Contatos (e-mail)
+
 E outros dados relevantes para a área comercial
 
 Nosso objetivo foi identificar padrões de comportamento, perfis de compra e potenciais insights que contribuam para a melhoria do processo de vendas e abordagem comercial.
 
 👥 Integrantes do Grupo
-
 Nicollas Anderson
 
 José Pedro
@@ -32,10 +34,15 @@ Definição do escopo e levantamento dos dados
 Coleta de informações sobre clientes, funcionários e carros vendidos.
 
 Organização e limpeza dos dados
+
 Tratamento dos dados dentro do DBeaver para facilitar a análise.
+
 Análise exploratória
+
 Investigação dos padrões de venda, perfis de clientes, valores médios e outros pontos-chave.
+
 Estruturação dos insights em formato visual
+
 Criação de uma apresentação no Canva com os principais resultados da análise.
 
 📈 Resultados e Insights
