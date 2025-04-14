@@ -56,7 +56,7 @@ Organização dos dados de forma visual e objetiva, visando facilitar a tomada d
 
 🎞️ Apresentação Visual (Slides)
 Confira nossa apresentação com os principais resultados do projeto:
-🔗 Link para o Canva
+🔗 https://www.canva.com/design/DAGjht_BOvw/akoXfKa9krKbQaff95AZ4w/edit?utm_content=DAGjht_BOvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 📝 Observações Finais
 Este projeto foi realizado com fins acadêmicos e de aprendizado, simulando um cenário real de análise de dados empresariais. Não há código a ser executado neste repositório — todo o conteúdo está focado na estrutura analítica e visual da base de dados.
